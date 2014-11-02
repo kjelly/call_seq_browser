@@ -17,7 +17,7 @@ How to use
 -------------
 
   ``` sh
-    python -m call_seq.browser output.json
+    python -m call_seq_browser output.json
   ```
 
 Screen snapshot
