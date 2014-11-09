@@ -1,5 +1,6 @@
 call_seq_browser
 ===========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/ya790206/call_seq_browser?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
   call_seq_browser is a tool that let you see the result which call_seq generated.
   So you can trace code more easily.
