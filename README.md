@@ -18,7 +18,13 @@ How to use
 -------------
 
   ``` sh
-    python -m call_seq_browser output.json
+    python -m call_seq_browser.main output.json
+  ```
+
+  or 
+
+  ``` sh
+    python -m call_seq_browser.main
   ```
 
 Screen snapshot
